@@ -1,4 +1,6 @@
-﻿﻿on: [push]
+﻿name: OSLR20
+
+on: [push]
 
 jobs:
   build:
